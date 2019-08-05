@@ -24,7 +24,7 @@ cannot use GIT LFS you will need to download the original zip files containing t
 and copy them to the data_17, data_18 and data_19 files for the notebook to run properly.
 
 ## Non-Technical Summary
-A non-technical summary of the main findings of my analysis can be found in a Medium blog post at .
+A non-technical summary of the main findings of my analysis can be found in a Medium blog post at https://medium.com/@hendrik_sill/how-different-are-data-scientists-from-other-developers-3a65646ae685.
 
 ## Acknowledgements and Credits
 First of all, this notebook is primarily based on what I have learned so far in the Udacity Data Scientist Nanodegree programme. Hence,
